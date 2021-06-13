@@ -1612,7 +1612,7 @@ label.custom-checkbox .checkmark:after {
 ========================*/
 
 .slider {
-    background-image: url(../../tempimages/index_banner1920x800.jpg);
+    background-image: url(../../tempimages/indexbanner2_1928x800.jpg);
     height: 800px;
 }
 .slider .banner-slider .banner-text {
@@ -2223,7 +2223,7 @@ label.custom-checkbox .checkmark:after {
 ========================*/
 
 .book-appointment {
-    background-image: url(https://via.placeholder.com/1920x500);
+    background-image: url(../../tempimages/loanadviser1920x500.jpg);
     z-index: 1;
 }
 .pattern {
@@ -5453,7 +5453,7 @@ label.custom-checkbox .checkmark:after {
 ========================*/
 /*creadiable section*/
 .ln-process{
-    background-image: url(https://via.placeholder.com/1920x700);
+    background-image: url(../../tempimages/our_process1920x700.jpg);
     z-index: 1;
 }
 .exp-cal .exp-cal-img{
