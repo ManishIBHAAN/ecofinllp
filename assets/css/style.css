@@ -2463,7 +2463,7 @@ label.custom-checkbox .checkmark:after {
 /*banner-advertisement*/
 
 .LOANLY-advertisement {
-    background-image: url("https://via.placeholder.com/1920x400");
+    background-image: url("../../tempimages/index_banner1920x800.jpg");
 }
 .LOANLY-advertisement:before {
     content: '';
@@ -4414,7 +4414,7 @@ label.custom-checkbox .checkmark:after {
 ========================*/
 
 .sub-header {
-    background-image: url("https://via.placeholder.com/1920x400");
+    background-image: url("../../tempimages/index_banner1920x800.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
