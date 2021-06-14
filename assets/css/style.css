@@ -4197,7 +4197,7 @@ label.custom-checkbox .checkmark:after {
 .about-us-sec .about-right-side-img:before{
     content: '';
     display: block;
-    background-image: url("https://via.placeholder.com/460");
+    background-image: url("../../tempimages/2aclient460x460.jpg");
     position: absolute;
     z-index: 1;
     top: 0;
