@@ -898,6 +898,13 @@ Version: 1.0.0
         border:none;
         margin: 0 auto;
     }
+    
+/*****Mine edit start******/
+    .mine-hidden .child2 { display: none; }
+    .mine-hidden .child1 { display: visible; }
+    .mine-hidden .child3 { display: visible; }
+/*****Mine edit end******/    
+    
 }
 @media (max-width: 380px) {
     .about-us-sec .about-right-side-img .transform-center {
@@ -919,6 +926,12 @@ Version: 1.0.0
     .download-app .app-img-side .app-features ul li p {
         padding-left: 0;
     }
+    
+/*****Mine edit start******/
+    .mine-hidden .child2 { display: none; }
+    .mine-hidden .child1 { display: visible; }
+    .mine-hidden .child3 { display: visible; }
+/*****Mine edit end******/    
 
 }
 @media (max-width: 350px) {
@@ -931,4 +944,11 @@ Version: 1.0.0
     .lw-about-right-list ul{
         columns: 1;
     }
+    
+/*****Mine edit start******/
+    .mine-hidden .child2 { display: none; }
+    .mine-hidden .child1 { display: visible; }
+    .mine-hidden .child3 { display: visible; }
+/*****Mine edit end******/    
+    
 }
