@@ -18,7 +18,7 @@ Version: 1.0.0
     }
     
 /*****Mine edit start******/
-    .mine-hidden .child2 { display: visible; }
+    .mine-hidden .child2 { display: block; }
     .mine-hidden .child1 { display: none; }
     .mine-hidden .child3 { display: none; }
 /*****Mine edit end******/    
@@ -84,7 +84,7 @@ Version: 1.0.0
     }
     
 /*****Mine edit start******/
-    .mine-hidden .child2 { display: visible; }
+    .mine-hidden .child2 { display: block; }
     .mine-hidden .child1 { display: none; }
     .mine-hidden .child3 { display: none; }
 /*****Mine edit end******/    
@@ -373,7 +373,7 @@ Version: 1.0.0
     }
     
 /*****Mine edit start******/
-    .mine-hidden .child2 { display: visible; }
+    .mine-hidden .child2 { display: block; }
     .mine-hidden .child1 { display: none; }
     .mine-hidden .child3 { display: none; }
 /*****Mine edit end******/    
@@ -531,7 +531,7 @@ Version: 1.0.0
     }
     
 /*****Mine edit start******/
-    .mine-hidden .child2 { display: visible; }
+    .mine-hidden .child2 { display: block; }
     .mine-hidden .child1 { display: none; }
     .mine-hidden .child3 { display: none; }
 /*****Mine edit end******/
@@ -740,8 +740,11 @@ Version: 1.0.0
   
 /*****Mine edit start******/
     .mine-hidden .child2 { display: none; }
-    .mine-hidden .child1 { display: visible; }
-    .mine-hidden .child3 { display: visible; }
+    .mine-hidden .child1 { display: block; }
+    .mine-hidden .child3 { display: block; }
+    .mineless-padding {
+        padding-bottom: 0;
+    }
 /*****Mine edit end******/
   
 }
@@ -901,8 +904,8 @@ Version: 1.0.0
     
 /*****Mine edit start******/
     .mine-hidden .child2 { display: none; }
-    .mine-hidden .child1 { display: visible; }
-    .mine-hidden .child3 { display: visible; }
+    .mine-hidden .child1 { display: block; }
+    .mine-hidden .child3 { display: block; }
 /*****Mine edit end******/    
     
 }
@@ -929,8 +932,8 @@ Version: 1.0.0
     
 /*****Mine edit start******/
     .mine-hidden .child2 { display: none; }
-    .mine-hidden .child1 { display: visible; }
-    .mine-hidden .child3 { display: visible; }
+    .mine-hidden .child1 { display: block; }
+    .mine-hidden .child3 { display: block; }
 /*****Mine edit end******/    
 
 }
@@ -947,8 +950,8 @@ Version: 1.0.0
     
 /*****Mine edit start******/
     .mine-hidden .child2 { display: none; }
-    .mine-hidden .child1 { display: visible; }
-    .mine-hidden .child3 { display: visible; }
-/*****Mine edit end******/    
+    .mine-hidden .child1 { display: block; }
+    .mine-hidden .child3 { display: block; }
+/*****Mine edit end******/   
     
 }
