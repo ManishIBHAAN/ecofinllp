@@ -508,6 +508,14 @@ Version: 1.0.0
         max-width: 250px;
         margin: 0 auto;
     }
+/*****Mine edit start******/
+    .arrange2 { 
+        display: none; 
+    }
+    .arrange1 { 
+        display: visible; 
+    }
+/*****Mine edit end******/
 
 }
 @media (max-width: 576px) {
@@ -710,6 +718,12 @@ Version: 1.0.0
         max-width: 100%;
         text-align: center;
     }
+  
+/*****Mine edit start******/
+    .arrange1 { display: none; }
+    .arrange2 { display: visible; }
+/*****Mine edit end******/
+  
 }
 @media (max-width: 460px) {
     .user-info-tabs {
