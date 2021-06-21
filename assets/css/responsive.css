@@ -16,6 +16,13 @@ Version: 1.0.0
     .side-lines {
         left: calc(2% + 15px);
     }
+    
+/*****Mine edit start******/
+    .mine-hidden .child2 { display: visible; }
+    .mine-hidden .child1 { display: none; }
+    .mine-hidden .child3 { display: none; }
+/*****Mine edit end******/    
+    
 }
 @media (max-width: 1200px) {
     .gallery-style-2 .filter-gallery > ul {
@@ -75,6 +82,13 @@ Version: 1.0.0
     .user-dashboard-sec .dashboard-second-sec-large .left-side .pie-chart-area .circle {
         min-height: 160px;
     }
+    
+/*****Mine edit start******/
+    .mine-hidden .child2 { display: visible; }
+    .mine-hidden .child1 { display: none; }
+    .mine-hidden .child3 { display: none; }
+/*****Mine edit end******/    
+    
 }
 @media (max-width: 992px) {
     /*topbar*/
@@ -357,6 +371,13 @@ Version: 1.0.0
     .ln-about-left-side:before{
         left: 0;
     }
+    
+/*****Mine edit start******/
+    .mine-hidden .child2 { display: visible; }
+    .mine-hidden .child1 { display: none; }
+    .mine-hidden .child3 { display: none; }
+/*****Mine edit end******/    
+    
 }
 @media (max-width: 767px) {
     .user-dashboard-sec .dashboard-second-sec {
@@ -508,16 +529,14 @@ Version: 1.0.0
         max-width: 250px;
         margin: 0 auto;
     }
+    
 /*****Mine edit start******/
-    .arrange2 { 
-        display: none; 
-    }
-    .arrange1 { 
-        display: visible; 
-    }
+    .mine-hidden .child2 { display: visible; }
+    .mine-hidden .child1 { display: none; }
+    .mine-hidden .child3 { display: none; }
 /*****Mine edit end******/
-
 }
+
 @media (max-width: 576px) {
     .user-dashboard-sec .dashboard-second-sec-large .right-side,
     .user-dashboard-sec .dashboard-second-sec-large .left-side {
@@ -720,8 +739,9 @@ Version: 1.0.0
     }
   
 /*****Mine edit start******/
-    .arrange1 { display: none; }
-    .arrange2 { display: visible; }
+    .mine-hidden .child2 { display: none; }
+    .mine-hidden .child1 { display: visible; }
+    .mine-hidden .child3 { display: visible; }
 /*****Mine edit end******/
   
 }
