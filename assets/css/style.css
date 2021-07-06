@@ -1731,7 +1731,7 @@ label.custom-checkbox .checkmark:after {
 }
 .exp-cal2 .exp-cal2-input:before,
 .ex-calculate-value:before  {
-    content: '$';
+    content: 'Rs';
     color: #888;
     font-size: 40px;
     position: absolute;
@@ -5524,6 +5524,7 @@ label.custom-checkbox .checkmark:after {
     text-align: center;
     font-size: 50px;
     line-height: normal;
+    padding-left: 60px;
 }
 .fw-600{
     font-weight: 600;
@@ -5579,6 +5580,7 @@ label.custom-checkbox .checkmark:after {
     text-align: center;
     font-size: 50px;
     font-weight: 600;
+    padding-left: 60px;
     width: -webkit-fill-available;
 }
 .exp-cal2 .ex-calculate-value>a{
@@ -6323,18 +6325,18 @@ label.custom-checkbox .checkmark:after {
     position: relative;
 }
 .ln-loan-calculator-wrap .loan-price-wrap .quantity:before{
-    content: '$';
+    content: 'Rs';
     color: #888;
     font-size: 24px;
     position: absolute;
-    padding: 0 10px 0 10px;
+    padding: 0 30px 0 10px;
     height: 50px;
     display: flex;
     align-items: center;
     font-weight: 500;
 }
 .ln-loan-calculator-wrap .loan-price-wrap .quantity>input{
-    padding-left: 35px;
+    padding-left: 50px;
 }
 .ln-loan-calculator-wrap .loan-price-wrap .quantity button{
     height: 51px;
