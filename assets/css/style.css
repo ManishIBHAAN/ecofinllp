@@ -1733,7 +1733,7 @@ label.custom-checkbox .checkmark:after {
 .ex-calculate-value:before  {
     content: 'Rs';
     color: #888;
-    font-size: 40px;
+    font-size: 30px;
     position: absolute;
     padding: 0 10px 0 10px;
     height: 80px;
